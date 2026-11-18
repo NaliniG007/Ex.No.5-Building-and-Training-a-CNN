@@ -3,7 +3,7 @@
 ## Aim :To build and train a CNN 
 
 ## Procedure
-Step 1: Import Libraries
+Step 1: Import Libraries 
 •	import tensorflow.keras for CNN layers and models
 •	import matplotlib.pyplot for visualisation
 •	to_categorical for one-hot encoding
